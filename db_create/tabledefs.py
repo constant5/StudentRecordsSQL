@@ -1,7 +1,5 @@
 # table definitions
 
-DB_NAME = 'studentrecords'
-
 TABLES = {}
 
 TABLES['students'] = (
