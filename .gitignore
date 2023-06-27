@@ -1,6 +1,7 @@
 /config.py
 /coverage
-/main.py
 /records
 /reports
 /__pycache__
+mysqlconnect.py
+db_create/__pycache__/*
